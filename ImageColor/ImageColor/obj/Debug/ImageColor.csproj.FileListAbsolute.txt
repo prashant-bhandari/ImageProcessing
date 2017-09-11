@@ -1,0 +1,5 @@
+/Users/prashantbhandari/Projects/ImageColor/ImageColor/bin/ImageColor.dll
+/Users/prashantbhandari/Projects/ImageColor/ImageColor/bin/ImageColor.pdb
+/Users/prashantbhandari/Projects/ImageColor/ImageColor/obj/Debug/ImageColor.csproj.CoreCompileInputs.cache
+/Users/prashantbhandari/Projects/ImageColor/ImageColor/obj/Debug/ImageColor.dll
+/Users/prashantbhandari/Projects/ImageColor/ImageColor/obj/Debug/ImageColor.pdb

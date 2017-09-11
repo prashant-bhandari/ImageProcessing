@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{FFCC5F53-CBEF-4272-8428-F90A360F85EE}|">
+  <MonoDevelop.Ide.ItemProperties.ImageColor PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ImageColor/Default.aspx.cs">
+    <Files>
+      <File FileName="ImageColor/Default.aspx.cs" Line="23" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

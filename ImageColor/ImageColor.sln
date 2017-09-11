@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageColor", "ImageColor\ImageColor.csproj", "{FFCC5F53-CBEF-4272-8428-F90A360F85EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageColor.Tests", "ImageColor.Tests\ImageColor.Tests.csproj", "{FC031A0D-EB07-47E7-BA3A-B63AF3189FBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFCC5F53-CBEF-4272-8428-F90A360F85EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFCC5F53-CBEF-4272-8428-F90A360F85EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFCC5F53-CBEF-4272-8428-F90A360F85EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFCC5F53-CBEF-4272-8428-F90A360F85EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC031A0D-EB07-47E7-BA3A-B63AF3189FBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC031A0D-EB07-47E7-BA3A-B63AF3189FBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC031A0D-EB07-47E7-BA3A-B63AF3189FBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC031A0D-EB07-47E7-BA3A-B63AF3189FBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
